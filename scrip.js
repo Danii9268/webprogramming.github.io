@@ -1,1 +1,1 @@
-console.log("ini tes");
+alert("demmo");
