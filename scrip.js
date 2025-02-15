@@ -1,1 +1,1 @@
-alert("demmo");
+console.log("ini bagian dari uji cobak");
